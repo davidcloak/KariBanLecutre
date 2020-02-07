@@ -1,2 +1,2 @@
-# KariBanLecutre
+# KanBanLecture
 Just practice lecture
